@@ -1,0 +1,14 @@
+{
+    "name": "test/test",
+    "description": "test demo",
+    "type": "php",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "蒲志兵",
+            "email": "pu_zhibing@163.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
